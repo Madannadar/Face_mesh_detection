@@ -10,3 +10,12 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+depriciation version: npm install @tensorflow/tfjs @tensorflow-models/facemesh react-webcam
+current : npm install @tensorflow/tfjs @tensorflow-models/face-landmarks-detection react-webcam
+
+Failed to resolve import "@tensorflow-models/facemesh" from "src/App.jsx". Does the file exist?
+npm install @tensorflow-models/face-landmarks-detection insted of facemesh
+
+
