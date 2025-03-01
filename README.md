@@ -15,3 +15,7 @@ If you are developing a production application, we recommend using TypeScript an
 depriciation version: npm install @tensorflow/tfjs @tensorflow-models/facemesh react-webcam
 current : npm install @tensorflow/tfjs @tensorflow-models/face-landmarks-detection react-webcam
 
+Failed to resolve import "@tensorflow-models/facemesh" from "src/App.jsx". Does the file exist?
+npm install @tensorflow-models/face-landmarks-detection insted of facemesh
+
+
